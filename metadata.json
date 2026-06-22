@@ -1,0 +1,6 @@
+{
+  "name": "Treelab",
+  "description": "Treelab helps SMEs and entrepreneurs grow their business through premium website development, AI video marketing, and AI growth consulting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
